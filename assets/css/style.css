@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar, .container-form {
+    background-color: #28a745 ;
+}
+.disc-numb {
+    color: #28a745;
+    padding-left: 15px;
+    font-size: 20px;   
+}
+.footer {
+    
+    height: 130px;
+}
+
+
+.card {
+   
+    height: 350px;
+
+}
+
